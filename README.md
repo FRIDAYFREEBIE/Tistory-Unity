@@ -1,17 +1,54 @@
-# 티스토리 유니티 C# 포스팅 자료 모음
+# Unity C# Study Collection
 
-### 📅 시작일: 2025년 7월 17일 ~
-
----
-
-## 📌 프로젝트 개요
-- **목적**: **개인 공부 내용**을 정리하여 **티스토리에 포스팅하고**, 관련 자료를 기록
-- **목표**: 유니티 관련 **학습한 내용을 블로그와 깃허브에 체계적으로 기록**
-- **공부 방식**: 공부 주제를 골라 학습 후 티스토리에 포스팅
+### 📅 Date: 2025-07-17 ~ 2025-07 -25
 
 ---
 
-## ✅ 티스토리
-[티스토리 이동](https://fridayfreebie.tistory.com/category/%EC%9C%A0%EB%8B%88%ED%8B%B0%20C%23)
+## 📌 Project Overview
+- **Purpose**: To organize personal study materials by posting them on Tistory and documenting related resources
+- **Goal**: To systematically document learned Unity and C# concepts on both the blog and GitHub
+- **Study Method**: Selecting study topics, learning them independently, and writing blog posts about the learning process
+
+---
+
+## 🔑 Topics Covered
+
+- **Unity Engine**
+  - Unity workflow and editor usage
+  - Component-based game object structure
+  - Scene and object management
+
+- **C# Programming**
+  - Object-oriented programming concepts
+  - Script architecture and reusable code design
+  - Event-driven programming and system structure
+
+- **Game Development Systems**
+  - Player movement and input systems
+  - Collision detection and trigger systems
+  - UI implementation and game flow management
+
+- **Optimization & Structure**
+  - Code refactoring and maintainability
+  - System modularization
+  - Understanding scalable gameplay architecture
+
+---
+
+## 🤔 What I Learned
+
+- Improved understanding of Unity’s component-based architecture and gameplay system structure.
+
+- Learned how to organize reusable and maintainable C# scripts for game development.
+
+- Gained experience documenting technical concepts and implementation processes through blog posts.
+
+- Improved understanding of how gameplay systems are connected and managed within Unity projects.
+
+---
+
+## ✅ Tistory Blog
+
+[Visit Tistory Blog](https://fridayfreebie.tistory.com/category/%EA%B3%B5%EB%B6%80/%EC%9C%A0%EB%8B%88%ED%8B%B0%20C%23)
 
 ---
