@@ -47,8 +47,8 @@
 
 ---
 
-## ✅ Tistory Blog
+## ✅ Blog
 
-[Visit Tistory Blog](https://fridayfreebie.tistory.com/category/%EA%B3%B5%EB%B6%80/%EC%9C%A0%EB%8B%88%ED%8B%B0%20C%23)
+[Visit Blog](https://fridayfreebie.tistory.com/category/%EA%B3%B5%EB%B6%80/%EC%9C%A0%EB%8B%88%ED%8B%B0%20C%23)
 
 ---
